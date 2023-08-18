@@ -6,7 +6,7 @@ A new Flutter project.
 - CRUD operations are maintained in evrey Post, Comment and User Cubits
 - Firebase as the BaaS (Mainly Cloud Storager and Firestore)
   
-##Follow these steps to get the project up and running on your local machine:
+## Follow these steps to get the project up and running on your local machine:
 
 1. **Clone the repository:** `git clone https://github.com/your-username/awesome-flutter-project.git`
 2. **Navigate to the project folder:** `cd awesome-flutter-project`
