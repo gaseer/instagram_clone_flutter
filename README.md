@@ -5,6 +5,7 @@ A new Flutter project.
 - Almost all features in Instagram are clonned here using Flutter + Firebase
 - CRUD operations are maintained in evrey Post, Comment and User Cubits
 - Firebase as the BaaS (Mainly Cloud Storager and Firestore)
+
   
 ## Follow these steps to get the project up and running on your local machine:
 
