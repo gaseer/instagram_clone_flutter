@@ -14,7 +14,6 @@ A new Flutter project.
 4. **Run the app:** `flutter run`
 
 ## Tech Stack
-
 - **Flutter:** The heart and soul of this app's UI.
 - **JavaScript:** Powering the app's interactive features and logic.
 - **Firebase:** Handling backend services like authentication and storage.
